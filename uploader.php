@@ -14,7 +14,7 @@ align=center><font size=5 color=#ff0000>uploaded successfully</font></body>';
 } else { print '<body
 
 bgcolor=#000></br></br><div align=center><font size=5 color=#ff0000Error !
-</font> <marquee> Acid </marquee> </body>'; }
+</font> <marquee> Acid ajg </marquee> </body>'; }
 ?>
 <div style=" color:#F00;text-align:center; margin-top:60px; font-size:25px;
 ">&gt;&gt;  &nbsp;  Upload Your file </div>
